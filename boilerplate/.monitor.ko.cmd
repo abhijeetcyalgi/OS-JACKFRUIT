@@ -1,1 +1,0 @@
-savedcmd_/home/abhijeet/Downloads/OS-Jackfruit-main/boilerplate/monitor.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/abhijeet/Downloads/OS-Jackfruit-main/boilerplate/monitor.ko /home/abhijeet/Downloads/OS-Jackfruit-main/boilerplate/monitor.o /home/abhijeet/Downloads/OS-Jackfruit-main/boilerplate/monitor.mod.o
